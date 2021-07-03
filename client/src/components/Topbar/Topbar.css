@@ -1,0 +1,75 @@
+.topbar {
+  width: 100%;
+  height: 70px;
+  position: sticky;
+  top: 0;
+  display: flex;
+  align-items: center;
+  z-index: 100;
+  background-color: #fff;
+}
+
+.topbar .left {
+  display: flex;
+  align-items: center;
+  flex: 2;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+}
+
+.topbar .left i {
+  font-size: 30px;
+  color: #444;
+  margin: 15px;
+  cursor: pointer;
+}
+
+.topbar .center {
+  display: flex;
+  align-items: center;
+  flex: 6;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+}
+
+.topbar .center .top-list {
+  display: flex;
+}
+
+.topbar .center .top-list .top-list-item {
+  list-style: none;
+  margin: 0 15px;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  cursor: pointer;
+  color: #444;
+}
+
+.topbar .right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 2;
+  height: 100%;
+  width: 100%;
+}
+
+.topbar .right .avatar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.topbar .right .search-icon {
+  font-size: 20px;
+  color: #444;
+  cursor: pointer;
+  margin-left: 20px;
+}
