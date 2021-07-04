@@ -26,7 +26,7 @@ export default function Topbar() {
       <div className="right">
         <img
           className="avatar"
-          src="https://i.pinimg.com/originals/d6/b9/ef/d6b9efc9393e07456d93eb8b1e10c050.jpg"
+          src="https://scontent-sin6-2.xx.fbcdn.net/v/t1.6435-9/48053147_494819787693595_5089707907012886528_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=eatF9GLtyaEAX87XSog&_nc_ht=scontent-sin6-2.xx&oh=838d688b464e1247a50cfde1f63f9d7d&oe=60E4E37E"
           alt="avt"
         />
         <i className="search-icon fas fa-search"></i>

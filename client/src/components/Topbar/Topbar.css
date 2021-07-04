@@ -48,6 +48,10 @@
   color: #444;
 }
 
+.topbar .center .top-list .top-list-item:hover {
+  font-weight: 900;
+}
+
 .topbar .right {
   display: flex;
   align-items: center;
