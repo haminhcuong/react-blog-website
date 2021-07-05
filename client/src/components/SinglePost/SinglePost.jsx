@@ -23,7 +23,7 @@ export default function SinglePost() {
             Author: <b>Safak</b>
           </span>
           <span className="singePost-date">
-            Author: <b>1 hour ago</b>
+            Date: <b>1 hour ago</b>
           </span>
         </div>
 

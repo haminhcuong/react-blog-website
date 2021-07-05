@@ -34,11 +34,11 @@
   justify-content: center;
 }
 
-.topbar .center .top-list {
+.top-list {
   display: flex;
 }
 
-.topbar .center .top-list .top-list-item {
+.top-list .top-list-item {
   list-style: none;
   margin: 0 15px;
   font-size: 18px;
